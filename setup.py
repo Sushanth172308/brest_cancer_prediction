@@ -11,7 +11,7 @@ LIST_OF_REQUIREMENTS = []
 
 
 setup(
-    name=SRC_REPO,
+    name=SRC_REPO,.
     version="0.0.1",
     author=AUTHOR_USER_NAME,
     description="A small package for MLflow app",
